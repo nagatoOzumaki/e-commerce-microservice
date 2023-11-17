@@ -1,0 +1,29 @@
+{
+  "folders": [
+	{
+		"path": "mproducts"
+	},
+	{
+		"path": "mclientui"
+	},
+	{
+		"path": "mpayment"
+	},
+	{
+		"path": "mcommandes"
+	},
+	{
+		"path": "gateway"
+	},
+	{
+		"path": "memailing"
+	},
+	{
+		"path": "test"
+	},
+	{
+		"path": "Infra-Code"
+	}
+],
+  "settings": {}
+}
